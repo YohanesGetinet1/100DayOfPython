@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Tip Calculator Day 2 project
 
 print("Welcome to the tip calculator")
