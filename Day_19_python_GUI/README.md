@@ -1,8 +1,9 @@
 # Python GUI 
 
 
-![Turtle](/YohanesGetinet1/100DayOfPython/tree/master/Day_19_python_GUI/png/Screenshot from 2022-08-25 12-09-22.png)
-![ Turtle race ](/YohanesGetinet1/100DayOfPython/tree/master/Day_19_python_GUI/png/Screencast from 08-25-2022 11:58:10 AM.webm)
+![Turtle](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day_19_python_GUI/png/Screencast%20from%2008-25-2022%2011:58:10%20AM.webm)
+
+![ Turtle race ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day_19_python_GUI/png/Screenshot%20from%202022-08-25%2012-09-22.png)
 
 ## Table of Content
 * [Environment](#environment)
