@@ -2,7 +2,7 @@
 
 ![Snake Game](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/snake_game_Day20-21/Screencast%20from%2008-27-2022%2001_10_05%20PM.gif)
 
-![ Snake  ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day_19_python_GUI/png/Screenshot%20from%202022-08-25%2012-09-22.png)
+![ Snake  ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/snake_game_Day20-21/Screenshot%20from%202022-08-27%2013-12-53.png)
 
 ## Table of Content
 * [Environment](#environment)
