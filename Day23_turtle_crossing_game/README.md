@@ -1,10 +1,9 @@
 # Python GUI 
 ##_100Day_of_Python
 
-![Turtle crossing ](/Screencast%20from%2008-29-2022%2012_44_48%20PM.gif)
+![ Turtle crossing game ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day23_turtle_crossing_game/Screencast%20from%2008-29-2022%2012_44_48%20PM.gif)
 
-![ Turtle crossing game ](/Screenshot%20from%202022-08-29%2012-45-43.png)
-
+![Turtle crossing ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day23_turtle_crossing_game/Screenshot%20from%202022-08-29%2012-45-43.png)
 ## Table of Content
 * [Environment](#environment)
 * [File Descriptions](#file-descriptions)
