@@ -2,7 +2,7 @@
 # 100Day_of_Python
 ### Panda python library 
 
-![ State Guessing game ](/blank_states_img.gif)
+![ State Guessing game ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day25_panda_US_states_guess_game/Screenshot%20from%202022-08-31%2020-13-26.png)
 
 ## Table of Content
 * [Environment](#environment)
