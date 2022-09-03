@@ -2,9 +2,10 @@
 # 100Day_of_Python
 ### Pomodoro timer app
 
-![ Timer ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day25_panda_US_states_guess_game/Screenshot%20from%202022-08-31%2020-13-26.png)
+![ Timer ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day28_pomodoro_app/Screencast%20from%2009-03-2022%2006_48_49%20PM.gif)
 
-![ Timer ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day25_panda_US_states_guess_game/Screenshot%20from%202022-08-31%2020-13-26.png)
+
+![ Timer ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day28_pomodoro_app/Screenshot%20from%202022-09-03%2018-46-00.png)
 
 ## Table of Content
 * [Environment](#environment)
