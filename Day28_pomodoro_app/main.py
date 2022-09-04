@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from tkinter import *
 import math
 
@@ -7,8 +9,8 @@ RED = "#e7305b"
 GREEN = "#9bdeac"
 YELLOW = "#f7f5dd"
 FONT_NAME = "Courier"
-WORK_MIN = 0.3
-SHORT_BREAK_MIN = 0.2
+WORK_MIN = 25
+SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
 repetition = 0
 timer = None
