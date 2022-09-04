@@ -3,7 +3,7 @@
 # 100Day_of_Python
 ### PassWord Manager app
 
-![ PassWord Manager ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day28_pomodoro_app/Screencast%20from%2009-03-2022%2006_48_49%20PM.gif)
+![ PassWord Manager ](https://github.com/YohanesGetinet1/100DayOfPython/blob/master/Day29_PassWord_Manager/Screenshot%20from%202022-09-05%2001-43-29.png)
 
 
 ## Table of Content
