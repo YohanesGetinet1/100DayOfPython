@@ -1,4 +1,4 @@
-#!/home/yohanes/PycharmProjects/Day26/venv/bin/python
+#!/home/yohanes/100DayOfPython/Day26_NATO_ALPHABET/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
