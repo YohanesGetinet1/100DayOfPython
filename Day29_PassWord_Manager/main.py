@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import json
 from tkinter import *
 # from prettytable import PrettyTable as pt
